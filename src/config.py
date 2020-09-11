@@ -18,3 +18,7 @@ app_config = {
     'development': Development,
     'production': Production,
 }
+
+#set DATABASE_URL=postgres://postgres:jplv123.YJ@localhost:5432/blog_api_db
+#set JWT_SECRET_KEY = jplv123.YJ
+#set FLASK_ENV = development
